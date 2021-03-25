@@ -1,0 +1,45 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica;
+    background-color: burlywood;
+}
+label{
+    width: 200px;
+    margin-right: 20px;
+    background-color: rgb(85, 66, 66);
+    height: 30px;
+    outline: none;
+    padding: 3px;
+    color: rgb(rgb(192, 63, 63), rgb(47, 180, 47), rgb(79, 79, 129));
+    font-size: 25px;
+   
+}
+select#dog{
+    width: 200px;
+    height: 40px;
+    background-color: rosybrown;
+    font-size: 25px;
+    outline: none;
+    text-align-last: left;
+
+}
+
+img{
+    width: 400px;
+    height: 500px;
+    box-shadow: 0 0 12px 10px rgba(0,0,0, .4);
+    background-color: seashell;
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+     margin-right: auto;
+
+
+
+}
+div{
+    background-color: rgb(226, 194, 194);
+    padding: 50px 0;
+}
